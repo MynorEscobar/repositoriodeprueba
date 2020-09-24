@@ -1,0 +1,15 @@
+#Creado por: Mynor Escobar
+#Archivos a ignorar
+
+#ignorando un achivo especifico
+datos.txt
+
+#ignorar archivos de Microsoft Excel
+*.xls
+*.xlsx
+
+#ignorando todos los archivos con extension xyz
+*.xyz
+
+#ignorar la carpeta datos
+datos/
